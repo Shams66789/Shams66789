@@ -24,3 +24,5 @@
 [twitter]: https://twitter.com/MdShamsTabrejA4
 [instagram]: https://instagram.com/md_shams_tabrej_ansari
 [linkedin]: https://linkedin.com/in/md-shams-tabrej-ansari-855449193
+
+<img align="left" alt="Shams66789's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Shams66789&show_icons=true&hide_border=true" />
