@@ -1,11 +1,12 @@
-### Hi there, I'm Shams 👋
+#### Hi there, I'm Shams 👋
+# Welcome to my profil  😊😊🌹
 
 <!--![visitors](https://visitor-badge.laobi.icu/badge?page_id=deepdhar.visitor-badge)-->
-<a href="https://www.linkedin.com/in/md-shams-tabrej-ansari-855449193/" target="_blank"><img src="https://img.shields.io/badge/-Md Shams Tabrej Ansari-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin"></a>  <a href="https://twitter.com/MdShamsTabrejA4" target="_blank"><img src="https://img.shields.io/badge/-@MdShamsTabrejA4-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>  <a href="mailto:rajansari66789@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-rajansari66789@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"></a>  <a href="https://instagram.com/md_shams_tabrej_ansari/" target="_blank"><img src="https://img.shields.io/badge/-md_shams_tabrej_ansari-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.linkedin.com/in/md-shams-tabrej-ansari-855449193/" target="_blank"><img src="https://img.shields.io/badge/-Md Shams Tabrej Ansari-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin"></a>  <a href="https://twitter.com/MdShamsTabrejA4" target="_blank"><img src="https://img.shields.io/badge/-@MdShamsTabrejA4-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>  <a href="mailto:rajansari66789@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-rajansari66789@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"></a>  <a href="https://instagram.com/md_shams_tabrej_ansari/" target="_blank"><img src="https://img.shields.io/badge/-md_shams_tabrej_ansari-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white" alt="Instagram"></a>   <a href="https://www.Whatsapp.com/8617658978" target="_blank"><img src="https://img.shields.io/badge/--blue?style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp">
 
 <!--![z6pkbof42d5ljfxtox3p](https://user-images.githubusercontent.com/53803245/87873597-889bf180-c9e0-11ea-936c-0c1abb3259e7.png)-->
 
-## I'm a Student, Developer, and Leaner!
+### I'm a Student, Developer, and Leaner!
 - 🔭 I’m currently a B.Tech student studing in Siliguri Institute of Technology
 - 🌱 I’m currently learning to Python and Web Development
 - 👯 I’m looking to collaborate eith a programer to take part in different programing competition
