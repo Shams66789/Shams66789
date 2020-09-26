@@ -8,7 +8,7 @@
 
 ### I'm a Student, Developer, and Leaner!
 - 🔭 I’m currently a B.Tech student studing in Siliguri Institute of Technology
-- 🌱 I’m currently learning Python and Web Development
+- 🌱 I’m currently learning Python and App Development
 - 👯 I’m looking to collaborate eith a programer to take part in different programing competition
 - 🥅 2025 Goals: Become a software developer and contribute more on open source projects
 - ⚡ Fun fact: I love to play guitar
