@@ -17,13 +17,13 @@
 - ⚡ Fun fact: I love to play guitar
 
 
-### Connect with me:
+<!--### Connect with me: -->
 
-[<img align="left" alt="MdShamsTabrejA4 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<!--[<img align="left" alt="MdShamsTabrejA4 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="md-shams-tabrej-ansari-855449193/ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="md_shams_tabrej_ansari | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
+<br /> -->
 
 [twitter]: https://twitter.com/MdShamsTabrejA4
 [instagram]: https://instagram.com/md_shams_tabrej_ansari
@@ -32,3 +32,11 @@
 <p align="center">
 <img alt="Shams66789's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Shams66789&show_icons=true&hide_border=true" />
 </p>
+
+
+
+### Connect with me:
+
+[<img align="left" alt="MdShamsTabrejA4 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="md-shams-tabrej-ansari-855449193/ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="md_shams_tabrej_ansari | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
