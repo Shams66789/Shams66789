@@ -10,7 +10,7 @@
 
 ### I'm a Student, Developer, and Leaner!
 - 🔭 I’m currently a B.Tech student studing in Siliguri Institute of Technology
-- 🌱 My future goal is to learning Cloud Computing and App Development
+- 🌱 My future goal is to learn Cloud Computing and App Development
 - 📕 I'm currently learning Python, Java and Cloud Computing
 - 👯 I’m looking to collaborate with a programer to take part in different programing competition
 - 🥅 2025 Goals: Become a software developer and contribute more on open source projects
