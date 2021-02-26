@@ -9,12 +9,12 @@
 <!--![z6pkbof42d5ljfxtox3p](https://user-images.githubusercontent.com/53803245/87873597-889bf180-c9e0-11ea-936c-0c1abb3259e7.png)-->
 
 ### I'm a Student, Developer, and Leaner!
-- 🔭 I’m currently a B.Tech student studing in Siliguri Institute of Technology
-- 🌱 My future goal is to learn Cloud Computing and App Development
-- 📕 I'm currently learning Python, Java and Cloud Computing
-- 👯 I’m looking to collaborate with a programer to take part in different programing competition
-- 🥅 2025 Goals: Become a software developer and contribute more on open source projects
-- ⚡ Fun fact: I love to play guitar
+- 🔭 I’m currently a B.Tech student studing in Siliguri Institute of Technology.
+- 🌱 My future goal is to learn Cloud Computing and App Development.
+- 📕 I'm currently learning Python and Java.
+- 👯 I’m looking to collaborate with a programer to take part in different programing competition.
+- 🥅 2025 Goals: Become a software developer and contribute more on open source projects.
+- ⚡ Fun fact: I love to play guitar.
 
 
 
