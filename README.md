@@ -35,4 +35,5 @@
 
 [<img align="left" alt="MdShamsTabrejA4 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="md-shams-tabrej-ansari-855449193/ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="md_shams_tabrej_ansari | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
+<!--[<img align="left" alt="md_shams_tabrej_ansari | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
+[<img align="left" alt="md_shams_tabrej_ansari | Instagram" width="22px" src="https://www.clipartkey.com/search/instagram-logo/" />][instagram]
