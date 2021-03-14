@@ -27,6 +27,7 @@
 
 <p align="center">
 <img alt="Shams66789's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Shams66789&show_icons=true&hide_border=true" />
+<img alt="Shams66789's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shams66789&show_icons=true&hide_border=true" />
 </p>
 
 
