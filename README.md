@@ -39,3 +39,6 @@
 [<img align="left" alt="md-shams-tabrej-ansari-855449193/ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="md_shams_tabrej_ansari | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
 <!--[<img align="left" alt="md_shams_tabrej_ansari | Instagram" width="22px" src="https://www.seekpng.com/ipng/u2a9o0u2y3y3a9w7_instagram-white-logo-instagram-logo-png-white-outline/" />][instagram]-->
+<a href="mailto:rajansari66789@gmail.com">
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a> 
