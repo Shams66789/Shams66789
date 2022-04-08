@@ -35,10 +35,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="MdShamsTabrejA4 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="md-shams-tabrej-ansari-855449193/ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="md_shams_tabrej_ansari | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
+[<img align="left" alt="MdShamsTabrejA4 | Twitter" width="22px" src="https://img.icons8.com/fluency/48/000000/twitter.png" />][twitter]
+[<img align="left" alt="md-shams-tabrej-ansari-855449193/ | LinkedIn" width="22px" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png" />][linkedin]
+[<img align="left" alt="md_shams_tabrej_ansari | Instagram" width="22px" src="https://img.icons8.com/fluency/64/000000/instagram-new.png" />][instagram] 
 <!--[<img align="left" alt="md_shams_tabrej_ansari | Instagram" width="22px" src="https://www.seekpng.com/ipng/u2a9o0u2y3y3a9w7_instagram-white-logo-instagram-logo-png-white-outline/" />][instagram]-->
 <a href="mailto:rajansari66789@gmail.com">
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+<img align="left" width="22px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />
 </a> 
