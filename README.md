@@ -8,14 +8,13 @@
 
 <!--![z6pkbof42d5ljfxtox3p](https://user-images.githubusercontent.com/53803245/87873597-889bf180-c9e0-11ea-936c-0c1abb3259e7.png)-->
 
-### I'm a Student, Developer, and Leaner!
-- 🔭 I’m currently final year B.Tech student studing in Siliguri Institute of Technology.
-- 🌱 My future goal is to become a software engineer.
-- 📕 I'm currently learning Java, SQL and also doing Android development.
-- 👯 I’m looking to collaborate with a programer to take part in different programing competition.
-- 🥅 2025 Goals: Become a software developer and contribute more on open source projects.
-- ⚡ Fun fact: I love to play guitar.
-
+### I'm a recent graduate, Aspiring Software Engineer, and Lifelong Learner!"
+- 🎓 I recently graduated as a B.Tech student from Siliguri Institute of Technology.
+- 💻 Aspiring software engineer and continuous learner.
+- 📚 Proficient in Java, SQL, and Android development, currently expanding my skills to include Kotlin and Jet Compose.
+- 👬 Actively seeking collaboration with other programmers for various programming competitions.
+- 🎯 2025 Goals: Establish myself as a skilled software developer and contribute to open-source projects.
+- 🎸 Fun fact: I enjoy playing the guitar in my free time.
 
 
 
