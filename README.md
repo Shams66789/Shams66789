@@ -1,5 +1,5 @@
-#### Hi there, I'm Shams 👋
-# Welcome to my profile  😊😊🌹
+# Hi <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="45px" style="vertical-align:bottom;">, I'm Shams
+### Welcome to my profile  😊😊🌹
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Shams66789.visitor-badge)
 <br>
