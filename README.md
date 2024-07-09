@@ -20,7 +20,14 @@
   <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" width="45" height="45"/>
   <img src="https://img.icons8.com/color/48/000000/android-os.png" alt="Android" width="45" height="45"/>
   <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin" width="45" height="45"/>
+  <img src="https://img.icons8.com/plasticine/100/react.png" alt="React Native" width="45" height="45"/>
   <img src="https://shams66789.github.io/assets/jetpack-compose.svg" alt="Jetpack Compose" width="45" height="45"/>
+  <img src="https://img.icons8.com/color/48/google-firebase-console.png" alt="Firebase" width="45" height="45"/>
+  <img src="https://img.icons8.com/fluency/48/android-studio--v3.png" alt="Android Studio" width="45" height="45"/>
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="Visual Studio" width="45" height="45"/>
+  <img src="https://img.icons8.com/external-bearicons-flat-bearicons/64/external-XML-file-extension-bearicons-flat-bearicons.png" alt="XML" width="45" height="45"/>
+  <img src="https://img.icons8.com/nolan/64/flask.png" alt="Flask" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" width="45" height="45"/>
 
 </p>
 
